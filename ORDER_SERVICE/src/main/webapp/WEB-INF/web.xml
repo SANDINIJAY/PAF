@@ -8,7 +8,7 @@
 	</servlet>
 	<servlet-mapping>
 	 <servlet-name>Jersey Web Application</servlet-name>
-	 <url-pattern>/OrderService/*</url-pattern>
+	 <url-pattern>/OrderService/Order</url-pattern>
 	</servlet-mapping>
   
   <welcome-file-list>
