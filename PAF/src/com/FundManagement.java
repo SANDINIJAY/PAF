@@ -24,7 +24,6 @@ import model.FundTest;
 
 @Path("/FundTest")
 
-//fund
 public class FundManagement {
 	FundTest fundtestObj = new FundTest();
 
