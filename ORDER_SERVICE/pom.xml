@@ -18,7 +18,7 @@
 		 <artifactId>maven-war-plugin</artifactId>
 		 <version>3.2.3</version>
 		 <configuration>
-		 <warSourceDirectory>WebContent</warSourceDirectory>
+		 <warSourceDirectory>webapp</warSourceDirectory>
 		 </configuration>
 		</plugin>
 	</plugins>
@@ -45,7 +45,7 @@
  <dependency>
  <groupId>mysql</groupId>
  <artifactId>mysql-connector-java</artifactId>
- <version>8.0.19</version>
+ <version>8.0.24</version>
  </dependency>
  
  <dependency>
